@@ -4,3 +4,6 @@
 [submodule "default"]
 	path = default
 	url = https://github.com/aubm/postmanerator-default-theme.git
+[submodule "hu"]
+	path = hu
+	url = https://github.com/zanaca/postmanerator-hu-theme.git
